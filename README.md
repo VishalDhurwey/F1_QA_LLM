@@ -12,13 +12,13 @@ A local, privacy-respecting Question Answering system built with FAISS, Sentence
 
 ## 🗂️ Project Structure
 
-<pre> ```
+<pre> 
 text f1-vector-qa/ 
     ├── data/ 
         └── f1_knowledge.txt # Your Formula 1 knowledge base 
     ├── app.py # Main Python script 
     ├── requirements.txt # Required dependencies 
-    └── README.md # Project documentation ``` </pre>
+    └── README.md # Project documentation  </pre>
 
 
 ## 🚀 Getting Started
