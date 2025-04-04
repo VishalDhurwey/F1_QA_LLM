@@ -1,0 +1,6 @@
+faiss-cpu
+numpy
+tqdm
+sentence-transformers
+ollama
+wikipedia-api
