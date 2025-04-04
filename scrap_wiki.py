@@ -3,7 +3,7 @@ import wikipediaapi
 # Set language and proper user-agent
 wiki = wikipediaapi.Wikipedia(
     language='en',
-    user_agent='F1RAGBot/1.0 (contact: your-email@example.com)'
+    user_agent='F1RAGBot/1.0 (contact: nick.uk.28@gmail.com)'
 )
 
 pages = {
